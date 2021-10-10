@@ -52,10 +52,7 @@ In information systems, applications architecture or application architecture is
 * Now run the project on emulator and there you have the application!
 
 ## Behaviour Driven Development(BDD)
-* The sprint of the project will come soon!!
-* The android application page loads in form of a splash.
-* User is required to login or register an account.
-* After user logs in, user inputs location to look for trails.
+
 
 ## Technologies Used
 * Kotlin
