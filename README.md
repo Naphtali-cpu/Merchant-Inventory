@@ -1,4 +1,4 @@
-# Tracee App
+# Merchant Inventory
 ## Author
 Naphtali Makori
 ## App under construction!!!
