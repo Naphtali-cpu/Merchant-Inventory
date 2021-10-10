@@ -24,8 +24,6 @@ This is an application that allows users to search for places to go have fun, ta
 * Run the application on the emulator/USB.
 
 ## Contributors
-So far there are no contributors for this project.
-If you wish to, contact me :)
 
 ## Future Implementation
 
